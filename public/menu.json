@@ -1,0 +1,716 @@
+[
+  {
+    "title": "饮料",
+    "id": "01",
+    "type": [
+      {
+        "title": "咖啡融合冰淇淋",
+        "id": "0101",
+        "sort": [
+          {
+            "title": "阿馥奇朵™",
+            "id": "010101",
+            "img_url": "https://www.starbucks.com.cn/images/products/affogato.jpg"
+          },
+          {
+            "title": "麦芽雪冷萃™",
+            "id": "010102",
+            "img_url": "https://www.starbucks.com.cn/images/products/cold-brew-malt.jpg"
+          },
+          {
+            "title": "冷萃浮乐朵™",
+            "id": "010103",
+            "img_url": "https://www.starbucks.com.cn/images/products/cold-brew-float.jpg"
+          },
+          {
+            "title": "气致™冷萃浮乐朵™",
+            "id": "010104",
+            "img_url": "https://www.starbucks.com.cn/images/products/instore-nitro-cold-brew-float.jpg"
+          }
+        ]
+      },
+      {
+        "title": "星巴克冷萃咖啡系列",
+        "id": "0102",
+        "sort": [
+          {
+            "title": "冷萃冰咖啡",
+            "id": "010201",
+            "img_url": "https://www.starbucks.com.cn/images/products/instore-nitro-cold-brew-float.jpg"
+          },
+          {
+            "title": "轻甜奶油冷萃",
+            "id": "010202",
+            "img_url": "https://www.starbucks.com.cn/images/products/vanilla-flavor-sweet-cream-cold-brew.jpg"
+          },
+          {
+            "title": "棉云冷萃",
+            "id": "010203",
+            "img_url": "https://www.starbucks.com.cn/images/products/cold-foam-cold-brew.jpg"
+          }
+        ]
+      },
+      {
+        "title": "手工调制浓缩咖啡",
+        "id": "0103",
+        "sort": [
+          {
+            "title": "美式咖啡（热/冷）",
+            "id": "010301",
+            "img_url": "https://www.starbucks.com.cn/images/products/caffe-americano.jpg"
+          },
+          {
+            "title": "拿铁（热/冷）",
+            "id": "010302",
+            "img_url": "https://www.starbucks.com.cn/images/products/caffe-latte.jpg"
+          },
+          {
+            "title": "摩卡（热/冷）",
+            "id": "010303",
+            "img_url": "https://www.starbucks.com.cn/images/products/caffe-mocha.jpg"
+          },
+          {
+            "title": "卡布奇诺（热/冷）",
+            "id": "010304",
+            "img_url": "https://www.starbucks.com.cn/images/products/cappuccino.jpg"
+          },
+          {
+            "title": "焦糖玛奇朵（热/冷）",
+            "id": "010305",
+            "img_url": "https://www.starbucks.com.cn/images/products/caramel-macchiato.jpg"
+          },
+          {
+            "title": "浓缩咖啡",
+            "id": "010306",
+            "img_url": "https://www.starbucks.com.cn/images/products/espresso.jpg"
+          },
+          {
+            "title": "馥芮白™",
+            "id": "010307",
+            "img_url": "https://www.starbucks.com.cn/images/products/flat-white.jpg"
+          },
+          {
+            "title": "榛果风味拿铁（热/冷）",
+            "id": "010308",
+            "img_url": "https://www.starbucks.com.cn/images/products/hazelnut-flavored-latte.jpg"
+          },
+          {
+            "title": "香草风味拿铁（热/冷）",
+            "id": "010309",
+            "img_url": "https://www.starbucks.com.cn/images/products/vanilla-flavored-latte.jpg"
+          }
+        ]
+      },
+      {
+        "title": "星冰乐",
+        "id": "0104",
+        "sort": [
+          {
+            "title": "焦糖浓缩咖啡星冰乐",
+            "id": "010401",
+            "img_url": "https://www.starbucks.com.cn/images/products/caramel-espresso-frappuccino.jpg"
+          },
+          {
+            "title": "抹茶星冰乐",
+            "id": "010402",
+            "img_url": "https://www.starbucks.com.cn/images/products/green-tea-frappuccino.jpg"
+          },
+          {
+            "title": "芒果西番莲果茶星冰乐",
+            "id": "010403",
+            "img_url": "https://www.starbucks.com.cn/images/products/mango-passion-tea.jpg"
+          },
+          {
+            "title": "摩卡星冰乐",
+            "id": "010404",
+            "img_url": "https://www.starbucks.com.cn/images/products/mocha-frappuccino.jpg"
+          },
+          {
+            "title": "摩卡可可碎片星冰乐",
+            "id": "010405",
+            "img_url": "https://www.starbucks.com.cn/images/products/mocha-java-chip-frappuccino.jpg"
+          },
+          {
+            "title": "香草风味星冰乐",
+            "id": "010406",
+            "img_url": "https://www.starbucks.com.cn/images/products/vanilla-flavored-cream-frappuccino-blended-beverage.jpg"
+          }
+        ]
+      },
+      {
+        "title": "气致™冷萃咖啡",
+        "id": "0105",
+        "sort": [
+          {
+            "title": "气致™冷萃咖啡",
+            "id": "010501",
+            "img_url": "https://www.starbucks.com.cn/images/products/nitro-cold-brew.jpg"
+          }
+        ]
+      },
+      {
+        "title": "经典巧克力饮品",
+        "id": "0106",
+        "sort": [
+          {
+            "title": "经典巧克力饮品（热/冷）",
+            "id": "010601",
+            "img_url": "https://www.starbucks.com.cn/images/products/signature-chocolate-beverage.jpg"
+          }
+        ]
+      },
+      {
+        "title": "茶瓦纳™",
+        "id": "0107",
+        "sort": [
+          {
+            "title": "红茶拿铁（热/冷）",
+            "id": "010701",
+            "img_url": "https://www.starbucks.com.cn/images/products/black-tea-latte.jpg"
+          },
+          {
+            "title": "抹茶拿铁（热/冷）",
+            "id": "010702",
+            "img_url": "https://www.starbucks.com.cn/images/products/green-tea-latte.jpg"
+          },
+          {
+            "title": "茶瓦纳™冰摇柚柚蜂蜜红茶",
+            "id": "010703",
+            "img_url": "https://www.starbucks.com.cn/images/products/iced-shaken-honey-ruby-grapefruit-black-tea.jpg"
+          },
+          {
+            "title": "冰摇红莓黑加仑茶",
+            "id": "010704",
+            "img_url": "https://www.starbucks.com.cn/images/products/blackcurrant-raspberry.jpg"
+          },
+          {
+            "title": "冰摇芒果花草茶",
+            "id": "010705",
+            "img_url": "https://www.starbucks.com.cn/images/products/iced-shaken-mango-herbal-juiced-tea.jpg"
+          },
+          {
+            "title": "茶瓦纳™冰摇桃桃乌龙茶",
+            "id": "010706",
+            "img_url": "https://www.starbucks.com.cn/images/products/iced-shaken-peach-green-tea.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "美食",
+    "id": "02",
+    "type": [
+      {
+        "title": "烘焙",
+        "id": "0201",
+        "sort": [
+          {
+            "title": "美式松饼",
+            "id": "020101",
+            "img_url": "https://www.starbucks.com.cn/images/products/american-style-pancakes.jpg"
+          },
+          {
+            "title": "蓝莓麦芬",
+            "id": "020102",
+            "img_url": "https://www.starbucks.com.cn/images/products/blueberry-muffin.jpg"
+          },
+          {
+            "title": "香浓巧克力麦芬",
+            "id": "020103",
+            "img_url": "https://www.starbucks.com.cn/images/products/chocolate-muffin.jpg"
+          },
+          {
+            "title": "旋风玉桂酥",
+            "id": "020104",
+            "img_url": "https://www.starbucks.com.cn/images/products/cinnamon-swirl.jpg"
+          },
+          {
+            "title": "法式香酥可颂",
+            "id": "020105",
+            "img_url": "https://www.starbucks.com.cn/images/products/french-butter-croissant.jpg"
+          },
+          {
+            "title": "法式焦糖酥",
+            "id": "020106",
+            "img_url": "https://www.starbucks.com.cn/images/products/french-caramel-bread.jpg"
+          },
+          {
+            "title": "层层榛子果仁酥",
+            "id": "020107",
+            "img_url": "https://www.starbucks.com.cn/images/products/hazelnut-croissant.jpg"
+          },
+          {
+            "title": "蜂蜜提子司康",
+            "id": "020108",
+            "img_url": "https://www.starbucks.com.cn/images/products/honey-raisin-scone.jpg"
+          },
+          {
+            "title": "燕麦焦糖布丁面包",
+            "id": "020109",
+            "img_url": "https://www.starbucks.com.cn/images/products/oat-caramel-pudding-bread.jpg"
+          },
+          {
+            "title": "香浓巧克力可颂",
+            "id": "020110",
+            "img_url": "https://www.starbucks.com.cn/images/products/premium-chocolate-croissant.jpg"
+          },
+          {
+            "title": "提子干松饼",
+            "id": "020111",
+            "img_url": "https://www.starbucks.com.cn/images/products/raisin-scone.jpg"
+          },
+          {
+            "title": "核桃提子软法面包",
+            "id": "020112",
+            "img_url": "https://www.starbucks.com.cn/images/products/raisins-walnut-bread.jpg"
+          },
+          {
+            "title": "红豆燕麦松饼",
+            "id": "020113",
+            "img_url": "https://www.starbucks.com.cn/images/products/red-bean-oats-scone.jpg"
+          },
+          {
+            "title": "全麦核桃麦芬",
+            "id": "020114",
+            "img_url": "https://www.starbucks.com.cn/images/products/whole-wheat-walnut-muffin.jpg"
+          }
+        ]
+      },
+      {
+        "title": "蛋糕&甜品",
+        "id": "0202",
+        "sort": [
+          {
+            "title": "蓝莓曲奇风轻乳酪蛋糕",
+            "id": "020201",
+            "img_url": "https://www.starbucks.com.cn/images/products/blueberry-and-cookie-style-cheesecake.jpg"
+          },
+          {
+            "title": "经典芝士卷",
+            "id": "020202",
+            "img_url": "https://www.starbucks.com.cn/images/products/classic-swiss-roll-cake.jpg"
+          },
+          {
+            "title": "醇厚三重巧克力蛋糕",
+            "id": "020203",
+            "img_url": "https://www.starbucks.com.cn/images/products/triple-dark-chocolate-cake.jpg"
+          },
+          {
+            "title": "法式闪电泡芙",
+            "id": "020204",
+            "img_url": "https://www.starbucks.com.cn/images/products/eclair.jpg"
+          },
+          {
+            "title": "星巴克咖啡提拉米苏蛋糕",
+            "id": "020205",
+            "img_url": "https://www.starbucks.com.cn/images/products/starbucks-coffee-tiramisu.jpg"
+          },
+          {
+            "title": "法式马克龙",
+            "id": "020206",
+            "img_url": "https://www.starbucks.com.cn/images/products/macaron.jpg"
+          },
+          {
+            "title": "纽约风浓郁重芝士蛋糕",
+            "id": "020207",
+            "img_url": "https://www.starbucks.com.cn/images/products/new-york-style-creamy-cheesecake.jpg"
+          }
+        ]
+      },
+      {
+        "title": "三明治、帕尼尼、卷",
+        "id": "0203",
+        "sort": [
+          {
+            "title": "牛油果鸡肉焙果",
+            "id": "020301",
+            "img_url": "https://www.starbucks.com.cn/images/products/avocado-and-chicken-bagel.jpg"
+          },
+          {
+            "title": "培根蛋可颂堡",
+            "id": "020302",
+            "img_url": "https://www.starbucks.com.cn/images/products/bacon-and-egg-croissant-bun.jpg"
+          },
+          {
+            "title": "蜜汁培根蛋卷",
+            "id": "020303",
+            "img_url": "https://www.starbucks.com.cn/images/products/bacon-and-egg-wrap.jpg"
+          },
+          {
+            "title": "层层牛肉法棍",
+            "id": "020304",
+            "img_url": "https://www.starbucks.com.cn/images/products/beef-baguette.jpg"
+          },
+          {
+            "title": "牛肉芝士可颂",
+            "id": "020305",
+            "img_url": "https://www.starbucks.com.cn/images/products/beef-cheese-croissant.jpg"
+          },
+          {
+            "title": "凯撒鸡肉卷",
+            "id": "020306",
+            "img_url": "https://www.starbucks.com.cn/images/products/caesar-chicken-wrap.jpg"
+          },
+          {
+            "title": "鸡肉芝香帕尼尼",
+            "id": "020307",
+            "img_url": "https://www.starbucks.com.cn/images/products/chicken-panini.jpg"
+          },
+          {
+            "title": "炒蛋菌菇虾仁卷",
+            "id": "020308",
+            "img_url": "https://www.starbucks.com.cn/images/products/eggs-mushroom-shrimp-wrap.jpg"
+          },
+          {
+            "title": "火腿芝士可颂",
+            "id": "020309",
+            "img_url": "https://www.starbucks.com.cn/images/products/ham-and-cheese-croissant.jpg"
+          },
+          {
+            "title": "双重芝士火腿吐司",
+            "id": "020310",
+            "img_url": "https://www.starbucks.com.cn/images/products/ham-and-double-cheese-croque-monsieur.jpg"
+          },
+          {
+            "title": "高达芝士火腿星明治",
+            "id": "020311",
+            "img_url": "https://www.starbucks.com.cn/images/products/ham-and-gouda-sandwich.jpg"
+          },
+          {
+            "title": "帕斯雀牛肉三明治",
+            "id": "020312",
+            "img_url": "https://www.starbucks.com.cn/images/products/pastrami-sandwich.jpg"
+          },
+          {
+            "title": "烤法式火腿鸡蛋三明治",
+            "id": "020313",
+            "img_url": "https://www.starbucks.com.cn/images/products/roasted-french-ham-egg-sandwich.jpg"
+          },
+          {
+            "title": "慢烤火腿芝士恰巴特",
+            "id": "020314",
+            "img_url": "https://www.starbucks.com.cn/images/products/slow-roasted-ham-cheese-ciabatta.jpg"
+          },
+          {
+            "title": "金枪鱼帕尼尼",
+            "id": "020315",
+            "img_url": "https://www.starbucks.com.cn/images/products/tuna-panini.jpg"
+          },
+          {
+            "title": "火鸡培根英式麦芬",
+            "id": "020316",
+            "img_url": "https://www.starbucks.com.cn/images/products/turkey-bacon-english-muffin.jpg"
+          }
+        ]
+      },
+      {
+        "title": "酸奶",
+        "id": "0204",
+        "sort": [
+          {
+            "title": "谷物组合希腊式风味酸奶（混合莓果）",
+            "id": "020401",
+            "img_url": "https://www.starbucks.com.cn/images/products/greek-flavored-yoghurt-mixed-berry.jpg"
+          },
+          {
+            "title": "谷物组合希腊式风味酸奶（黄桃）",
+            "id": "020402",
+            "img_url": "https://www.starbucks.com.cn/images/products/greek-flavored-yoghurt-yellow-peach.jpg"
+          }
+        ]
+      },
+      {
+        "title": "其他美食",
+        "id": "0205",
+        "sort": [
+          {
+            "title": "腰果",
+            "id": "020501",
+            "img_url": "https://www.starbucks.com.cn/images/products/cashews.jpg"
+          },
+          {
+            "title": "英伦风味黄油饼干",
+            "id": "020502",
+            "img_url": "https://www.starbucks.com.cn/images/products/shortbread.png"
+          },
+          {
+            "title": "混合果仁果脯",
+            "id": "020503",
+            "img_url": "https://www.starbucks.com.cn/images/products/fruitnnuts.jpg"
+          },
+          {
+            "title": "水果沙拉",
+            "id": "020504",
+            "img_url": "https://www.starbucks.com.cn/images/products/fruit-salad.jpg"
+          },
+          {
+            "title": "棒棒糖",
+            "id": "020505",
+            "img_url": "https://www.starbucks.com.cn/images/products/lollipops.jpg"
+          },
+          {
+            "title": "咖啡味蛋卷",
+            "id": "020506",
+            "img_url": "https://www.starbucks.com.cn/images/products/waferrolls.jpg"
+          },
+          {
+            "title": "薄荷味口香糖（无糖）",
+            "id": "020507",
+            "img_url": "https://www.starbucks.com.cn/images/products/starbucks-chewing-gum.jpg"
+          },
+          {
+            "title": "薄荷味硬糖（无糖）",
+            "id": "020508",
+            "img_url": "https://www.starbucks.com.cn/images/products/Starbucks-mints.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "咖啡产品",
+    "id": "03",
+    "type": [
+      {
+        "title": "深度烘焙",
+        "id": "0301",
+        "sort": [
+          {
+            "title": "星巴克ORIGAMI™便携式滴滤咖啡（研磨咖啡粉）星巴克®佛罗娜烘焙咖啡系列",
+            "id": "030101",
+            "img_url": "https://www.starbucks.com.cn/images/products/origami-verona.jpg"
+          }
+        ]
+      },
+      {
+        "title": "中度烘焙",
+        "id": "0302",
+        "sort": [
+          {
+            "title": "星巴克ORIGAMI™便携式滴滤咖啡（研磨咖啡粉）星巴克®派克市场烘焙咖啡系列",
+            "id": "030201",
+            "img_url": "https://www.starbucks.com.cn/images/products/origami-pike-place.jpg"
+          }
+        ]
+      },
+      {
+        "title": "VIA® Black",
+        "id": "0303",
+        "sort": [
+          {
+            "title": "星巴克VIA®哥伦比亚免煮咖啡",
+            "id": "030301",
+            "img_url": "https://www.starbucks.com.cn/images/products/via-colombia.jpg"
+          },
+          {
+            "title": "星巴克VIA®意式烘焙免煮咖啡",
+            "id": "030302",
+            "img_url": "https://www.starbucks.com.cn/images/products/via-italian-roast.jpg"
+          }
+        ]
+      },
+      {
+        "title": "VIA® Dairy",
+        "id": "0304",
+        "sort": [
+          {
+            "title": "星巴克VIA®摩卡风味免煮咖啡固体饮料",
+            "id": "030401",
+            "img_url": "https://www.starbucks.com.cn/images/products/via-caffe-mocha.jpg"
+          },
+          {
+            "title": "星巴克VIA®焦糖拿铁风味免煮咖啡固体饮料",
+            "id": "030402",
+            "img_url": "https://www.starbucks.com.cn/images/products/via-caramel-latte.jpg"
+          },
+          {
+            "title": "星巴克VIA®香草拿铁风味免煮咖啡固体饮料",
+            "id": "030403",
+            "img_url": "https://www.starbucks.com.cn/images/products/via-vanilla-latte.jpg"
+          }
+        ]
+      },
+      {
+        "title": "深度烘焙",
+        "id": "0305",
+        "sort": [
+          {
+            "title": "星巴克®佛罗娜咖啡豆",
+            "id": "030501",
+            "img_url": "https://www.starbucks.com.cn/images/caffe-verona-coffee-beans.png"
+          },
+          {
+            "title": "星巴克®浓缩烘焙咖啡豆",
+            "id": "030502",
+            "img_url": "https://www.starbucks.com.cn/images/espresso-roast-coffee-beans.png"
+          },
+          {
+            "title": "星巴克®意式烘焙咖啡豆",
+            "id": "030503",
+            "img_url": "https://www.starbucks.com.cn/images/italian-roast-coffee-beans.png"
+          },
+          {
+            "title": "星巴克®低因祥龙综合咖啡豆",
+            "id": "030504",
+            "img_url": "https://www.starbucks.com.cn/images/komodo-dragon-blend-coffee-beans.png"
+          },
+          {
+            "title": "星巴克®苏门答腊咖啡豆",
+            "id": "030505",
+            "img_url": "https://www.starbucks.com.cn/images/sumatra-coffee-beans.png"
+          }
+        ]
+      },
+      {
+        "title": "中度烘焙",
+        "id": "0306",
+        "sort": [
+          {
+            "title": "星巴克®早餐综合咖啡豆",
+            "id": "030601",
+            "img_url": "https://www.starbucks.com.cn/images/breakfast-blend-coffee-beans.png"
+          },
+          {
+            "title": "星巴克®哥伦比亚咖啡豆",
+            "id": "030602",
+            "img_url": "https://www.starbucks.com.cn/images/products/colombia.jpg"
+          },
+          {
+            "title": "星巴克®埃塞俄比亚咖啡豆",
+            "id": "030603",
+            "img_url": "https://www.starbucks.com.cn/images/ethiopia-coffee-beans.png"
+          },
+          {
+            "title": "星巴克®危地马拉安提瓜咖啡豆",
+            "id": "030604",
+            "img_url": "https://www.starbucks.com.cn/images/guatemala-antigua-coffee-beans.png"
+          },
+          {
+            "title": "星巴克®首选咖啡豆",
+            "id": "030605",
+            "img_url": "https://www.starbucks.com.cn/images/house-blend-coffee-beans.png"
+          },
+          {
+            "title": "星巴克®肯亚咖啡豆",
+            "id": "030606",
+            "img_url": "https://www.starbucks.com.cn/images/kenya-coffee-beans.png"
+          },
+          {
+            "title": "星巴克®派克市场烘焙咖啡豆",
+            "id": "030607",
+            "img_url": "https://www.starbucks.com.cn/images/pike-place-roast-coffee-beans.png"
+          },
+          {
+            "title": "星巴克®凤舞祥云综合咖啡豆",
+            "id": "030608",
+            "img_url": "https://www.starbucks.com.cn/images/products/south-of-the-clouds.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "商品",
+    "id": "04",
+    "type": [
+      {
+        "title": "常规产品",
+        "id": "0401",
+        "sort": [
+          {
+            "title": "12oz 烫金品牌黑色马克杯",
+            "id": "040101",
+            "img_url": "https://www.starbucks.com.cn/images/products/12oz-black-gilded-brand-mug.jpg"
+          },
+          {
+            "title": "银色/白色亮面品牌桌面杯",
+            "id": "040102",
+            "img_url": "https://www.starbucks.com.cn/images/products/12oz-silver-white-brand-handle-mug.jpg"
+          },
+          {
+            "title": "12oz 彰显本色黑色/深灰不锈钢桌面杯",
+            "id": "040103",
+            "img_url": "https://www.starbucks.com.cn/images/products/12oz-true-essence-stainless-steel-bottle.jpg"
+          },
+          {
+            "title": "12oz 纯白磨砂玻璃杯",
+            "id": "040104",
+            "img_url": "https://www.starbucks.com.cn/images/products/12oz-white-frosted-glass-cup.jpg"
+          },
+          {
+            "title": "12oz 烫金品牌白色马克杯",
+            "id": "040105",
+            "img_url": "https://www.starbucks.com.cn/images/products/12oz-white-gilded-brand-mug.jpg"
+          },
+          {
+            "title": "16oz 烫金品牌黑色马克杯",
+            "id": "040106",
+            "img_url": "https://www.starbucks.com.cn/images/products/16oz-black-gilded-brand-mug.jpg"
+          },
+          {
+            "title": "16oz 原木黑色拎绳不锈钢保温杯",
+            "id": "040107",
+            "img_url": "https://www.starbucks.com.cn/images/products/16oz-black-wooden-stainless-steel-bottle-with-strap.jpg"
+          },
+          {
+            "title": "16oz 彰显本色黑色/深灰不锈钢随行杯",
+            "id": "040108",
+            "img_url": "https://www.starbucks.com.cn/images/products/16oz-true-essence-stainless-steel-travel-bottle.jpg"
+          },
+          {
+            "title": "16oz 烫金品牌白色马克杯",
+            "id": "040109",
+            "img_url": "https://www.starbucks.com.cn/images/products/16oz-white-gilded-brand-mug.jpg"
+          },
+          {
+            "title": "3oz 烫金品牌黑色试尝杯",
+            "id": "040110",
+            "img_url": "https://www.starbucks.com.cn/images/products/3oz-black-gilded-brand-mug.jpg"
+          },
+          {
+            "title": "3oz 烫金品牌白色试尝杯",
+            "id": "040111",
+            "img_url": "https://www.starbucks.com.cn/images/products/3oz-white-gilded-brand-mug.jpg"
+          },
+          {
+            "title": "500ml 黑色Logo水瓶",
+            "id": "040112",
+            "img_url": "https://www.starbucks.com.cn/images/products/500ml-black-logo-water-bottle.jpg"
+          },
+          {
+            "title": "500ml 白色Logo水瓶",
+            "id": "040113",
+            "img_url": "https://www.starbucks.com.cn/images/products/500ml-white-logo-water-bottle.jpg"
+          }
+        ]
+      },
+      {
+        "title": "精选产品",
+        "id": "0402",
+        "sort": [
+          {
+            "title": "12oz 纯黑/古铜亮面品牌桌面杯",
+            "id": "040201",
+            "img_url": "https://www.starbucks.com.cn/images/products/12oz-black-bronze-brand-handle-mug.jpg"
+          },
+          {
+            "title": "16oz 香槟金品牌不锈钢桌面杯",
+            "id": "040202",
+            "img_url": "https://www.starbucks.com.cn/images/products/16oz-champagne-gold-brand-stainless-steel-cup.jpg"
+          },
+          {
+            "title": "500ml 金色Logo水瓶",
+            "id": "040203",
+            "img_url": "https://www.starbucks.com.cn/images/products/500ml-gold-logo-water-bottle.jpg"
+          },
+          {
+            "title": "9oz 臻选玻璃杯",
+            "id": "040204",
+            "img_url": "https://www.starbucks.com.cn/images/products/9oz-reserve-glass-cup.jpg"
+          }
+        ]
+      }
+    ]
+  }
+]

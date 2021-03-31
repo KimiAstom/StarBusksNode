@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "img_normal": "https://www.starbucks.com.cn/assets/images/account/1-star-redeem-right-website.png",
+    "img_act": "https://www.starbucks.com.cn/assets/images/account/1-star-redeem-right-website-active.png",
+    "gold_star": "https://www.starbucks.com.cn/assets/icons/icon-star-gold.svg",
+    "title": "定制你爱的那杯",
+    "content": "升杯、添加浓缩咖啡、糖浆等付费客制化",
+    "big_img": "https://www.starbucks.com.cn/assets/images/account/1-star-redeem-right-content.png"
+  },
+  {
+    "id": "9",
+    "img_normal": "https://www.starbucks.com.cn/assets/images/account/9-star-redeem-right-website.png",
+    "img_act": "https://www.starbucks.com.cn/assets/images/account/9-star-redeem-right-website-active.png",
+    "gold_star": "https://www.starbucks.com.cn/assets/icons/icon-star-gold.svg",
+    "title": "星享日常所爱",
+    "content": "指定中杯手工调制饮品、烘焙食品、酸奶、水果沙拉",
+    "big_img": "https://www.starbucks.com.cn/assets/images/account/9-star-redeem-right-content.png"
+  },
+  {
+    "id": "12",
+    "img_normal": "https://www.starbucks.com.cn/assets/images/account/12-star-redeem-right-website.png",
+    "img_act": "https://www.starbucks.com.cn/assets/images/account/12-star-redeem-right-website-active.png",
+    "gold_star": "https://www.starbucks.com.cn/assets/icons/icon-star-gold.svg",
+    "title": "星享升级体验",
+    "content": "指定星巴克冰淇淋、指定星巴克臻选™手工调制饮品、指定蛋糕甜点，指定三明治及卷",
+    "big_img": "https://www.starbucks.com.cn/assets/images/account/12-star-redeem-right-content.png"
+  },
+  {
+    "id": "15",
+    "img_normal": "https://www.starbucks.com.cn/assets/images/account/15-star-redeem-right-website.png",
+    "img_act": "https://www.starbucks.com.cn/assets/images/account/15-star-redeem-right-website-active.png",
+    "gold_star": "https://www.starbucks.com.cn/assets/icons/icon-star-gold.svg",
+    "title": "星享奇妙无穷",
+    "content": "星巴克臻选™咖啡融合冰淇淋及其他指定饮品、指定星轻食系列及其他指定食品",
+    "big_img": "https://www.starbucks.com.cn/assets/images/account/15-star-redeem-right-content.png"
+  },
+  {
+    "id": "25",
+    "img_normal": "https://www.starbucks.com.cn/assets/images/account/25-star-redeem-right-website.png",
+    "img_act": "https://www.starbucks.com.cn/assets/images/account/25-star-redeem-right-website-active.png",
+    "gold_star": "https://www.starbucks.com.cn/assets/icons/icon-star-gold.svg",
+    "title": "满星欢喜",
+    "content": "指定单品78元好礼券/星巴克臻选上海烘焙工坊78元好礼券",
+    "big_img": "https://www.starbucks.com.cn/assets/images/account/25-star-redeem-right-content.png"
+  }
+]
